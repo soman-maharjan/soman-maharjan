@@ -10,7 +10,7 @@
 
 <h2> 💻 Tech Stack 💻 </h2>
   
-<h5>Frontend</h5>
+<h4>Frontend</h4>
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -25,13 +25,13 @@
 <img src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-<h5>Backend</h5>
+<h4>Backend</h4>
 <p>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 </p>
 
-<h5>Programming Languages</h5>
+<h4>Programming Languages</h4>
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -39,7 +39,14 @@
 <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
-<h5>Databases</h5>
+<h4>Database</h4>
+<p>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neo4j-018bff?style=flat-square&logo=neo4j&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+<h4>Software I'm familiar with</h4>
 <p>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Neo4j-018bff?style=flat-square&logo=neo4j&logoColor=white"/>
@@ -54,7 +61,7 @@
 </p>
 
 <br>
-<h2 align="center"><b>📼 Github Status</b></h2>
+<h2>📼 Github Status</h2>
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=soman-maharjan&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
 </td><td valign="top" width="50%">
