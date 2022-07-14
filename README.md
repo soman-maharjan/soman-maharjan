@@ -46,13 +46,6 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
-<h4>Software I'm familiar with</h4>
-<p>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neo4j-018bff?style=flat-square&logo=neo4j&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
-
 <br><br>
 <h2>📫 How to reach me: ...</h2>
 <p>
